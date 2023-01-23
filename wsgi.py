@@ -133,4 +133,4 @@ api.add_resource(DataWithin, '/ws/data/within')
 
 @application.route('/')
 def index():
-    return 'Welcome to the National Parks data service.Bem-vindo ao servico de dados de parques nacionais!!!!! tdsdsdeste'
+    return 'Welcome to the National Parks data service.Bem-vindo ao servico de dados de parques nacionais'
